@@ -37,6 +37,7 @@ function getOS($userAgent) {
     }
     return $osDetected;
 }
+
 /**
  * Match User agent with known broweser patterns
  *
