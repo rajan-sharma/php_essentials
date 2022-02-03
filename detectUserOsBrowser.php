@@ -41,7 +41,7 @@ function getOS($userAgent) {
 /**
  * Match User agent with known broweser patterns
  *
- * @param  string @userAgent
+ * @param  string $userAgent
  **/
 function getBrowser($userAgent) {
     $browser = 'Unknown';
